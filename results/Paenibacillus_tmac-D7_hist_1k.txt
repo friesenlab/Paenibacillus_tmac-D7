@@ -1,0 +1,2 @@
+#Quality	count1	fraction1
+0	0	0.00000
