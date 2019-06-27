@@ -4,7 +4,7 @@ Manuscript is currently in process.
 
 This is the code, assembly, and annotations for this article. 
 
-The draft genome sequence *Paenibacillus* sp. tmac-D7 a non-rhizobial endophyte from *Trifolium macraei* located in Bodega Bay, California. Journal Article is: Richard Allen White III, Emily E. Mclachlan, Joseph P. Dunham, Aaron Garoutte, Maren L. Friesen  Microbiology Resource Announcements (MRA).
+The draft genome sequence *Paenibacillus* sp. tmac-D7 a non-rhizobial endophyte from *Trifolium macraei* located in Bodega Bay, California. Journal Article is: Richard Allen White III, Emily E. Mclachlan, Joseph P. Dunham, Aaron Garoutte, Maren L. Friesen.  Microbiology Resource Announcements (MRA).
 
 **Analysis**
 
