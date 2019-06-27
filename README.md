@@ -4,13 +4,17 @@ Manuscript is currently in process.
 
 This is the code, assembly, and annotations for this article. 
 
-Journal Article is: Richard Allen White III, Jeff Norman, Emily E. Mclachlan, Joseph P. Dunham, Aaron Garoutte, Maren L. Friesen The draft genome sequence for type strain Ideonella azotifigens DSMZ21438, a novel aerobic diazotroph of the Betaproteobacteria isolated from grass rhizosphere soil. Microbiology Resource Announcements (MRA).
+The draft genome sequence *Paenibacillus* sp. tmac-D7 a non-rhizobial endophyte from *Trifolium macraei* located in Bodega Bay, California. Journal Article is: Richard Allen White III, Emily E. Mclachlan, Joseph P. Dunham, Aaron Garoutte, Maren L. Friesen  Microbiology Resource Announcements (MRA).
 
-Analysis
+**Analysis**
 
-This repo holds a workflow script to process Illumina sequencing read data with quality trimming and removal of phiX174, de novo genome assembly of quality controlled sequence reads and to annotate the genome.
+This repo holds a workflow script to process Illumina sequencing read data with quality trimming and removal of phiX174, *de novo* genome assembly of quality controlled sequence reads and to annotate the genome. 
 
-Data
+**Data**
 
-Raw and quality controls reads, assemblies, and annotations are also at Open Science Framework (OSF) repo link
-NCBI GenBank BioProject number is PRJNA550449 link
+Raw and quality controls reads, assemblies, and annotations are also at Open Science Framework (OSF) repo [link](https://osf.io/kcj9h)<br />
+NCBI GenBank BioProject number is PRJNA550449 [link](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA550458/) 
+
+The informatics point-of-contact for this project is [Dr. Richard Allen White III](https://github.com/raw937).<br />
+If you have any questions or feedback, please feel free to get in touch by email. Dr. Richard Allen White III - raw937@gmail.com.  <br />
+Or [open an issue](https://github.com/friesenlab/Paenibacillus_tmac-D7/issues).
